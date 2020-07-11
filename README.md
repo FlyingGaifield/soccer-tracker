@@ -9,4 +9,5 @@ This is my graduation project at ShanghaiTech University
 3. Get the location of the player each frame and analyze the data(heatmap of the player )
  
  More detail shown in tracking/soccer-tracker.pptx
+
  If you are interested in my project, feel free to contact me 
